@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <properties>
+        <!--<property name="myBatisDriver" value="org.sqlite.JDBC"/>-->
+        <!--<property name="myBatisUrl" value="jdbc:sqlite:/D:/tmp/one.db"/>-->
+        <!--<property name="myBatisUrl" value="jdbc:sqlite:/var/lib/one/one.db"/>-->
+        <property name="myBatisDriver" value="com.mysql.jdbc.Driver"/>
+<!--MarkForDBConStr-->        <property name="myBatisUrl" value="jdbc:mysql://10.100.211.178:3306/test"/>
+<!--MarkForDBUser-->        <property name="mySqlUser" value="root"/>
+<!--MarkForDBPassword-->        <property name="mySqlPassword" value="root"/>
+    </properties>
+
+    <typeAliases>
+        <typeAlias type="mytest.framework.mybatis.data.entity.VmResource" alias="VmResource"/>
+        <typeAlias type="mytest.framework.mybatis.data.entity.Student" alias="Student"/>
+        <typeAlias type="mytest.framework.mybatis.data.entity.AnimalObj" alias="AnimalObj"/>
+    </typeAliases>
+
+
+    <environments default="development">
+        <environment id="development">
+            <transactionManager type="JDBC"/>
+            <dataSource type="POOLED">
+                <property name="driver" value="${myBatisDriver}"/>
+                <property name="url" value="${myBatisUrl}"/>
+                <property name="username" value="${mySqlUser}"/>
+                <property name="password" value="${mySqlPassword}"/>
+            </dataSource>
+        </environment>
+    </environments>
+
+
+
+    <mappers>
+        <mapper resource="mytest/framework/mybatis/data/mapper/AccountingVmResource.xml"/>
+        <mapper resource="mytest/framework/mybatis/data/mapper/StudentTest.xml"/>
+
+        <!--<package name="com.lenovo.cloud.accounting.data.mapper" />-->
+    </mappers>
+</configuration>

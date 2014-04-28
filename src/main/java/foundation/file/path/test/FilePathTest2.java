@@ -1,4 +1,4 @@
-package test.gz.file;
+package foundation.file.path.test;
 
 import java.io.File;
 import java.io.IOException;
@@ -10,7 +10,7 @@ import java.io.IOException;
  * Time: 下午10:32
  * To change this template use File | Settings | File Templates.
  */
-public class FilePathTest {
+public class FilePathTest2 {
     public static void main(String[] args) {
         File file1 = new File(".\\test1.txt");
         File file2 = new File("D:\\github\\javaTest\\test1.txt");
