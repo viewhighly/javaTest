@@ -10,14 +10,11 @@ import org.apache.ibatis.session.SqlSession;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-import org.junit.Ignore;
 
-import javax.sql.rowset.serial.SerialBlob;
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
-import java.sql.Blob;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
@@ -59,7 +56,6 @@ public class TestClass {
             StudentMapper sm = session.getMapper(StudentMapper.class);
             sm.saveStudent(s1);
             sm.saveStudent(s1);
-
             session.commit();
         }
         catch (Exception e)

@@ -14,9 +14,9 @@
     </properties>
 
     <typeAliases>
-        <typeAlias type="mytest.framework.mybatis.data.entity.VmResource" alias="VmResource"/>
-        <typeAlias type="mytest.framework.mybatis.data.entity.Student" alias="Student"/>
-        <typeAlias type="mytest.framework.mybatis.data.entity.AnimalObj" alias="AnimalObj"/>
+        <typeAlias type="framework.mybatis.data.entity.VmResource" alias="VmResource"/>
+        <typeAlias type="framework.mybatis.data.entity.Student" alias="Student"/>
+        <typeAlias type="framework.mybatis.data.entity.AnimalObj" alias="AnimalObj"/>
     </typeAliases>
 
 
@@ -35,8 +35,8 @@
 
 
     <mappers>
-        <mapper resource="mytest/framework/mybatis/data/mapper/AccountingVmResource.xml"/>
-        <mapper resource="mytest/framework/mybatis/data/mapper/StudentTest.xml"/>
+        <mapper resource="framework/mybatis/data/mapper/AccountingVmResource.xml"/>
+        <mapper resource="framework/mybatis/data/mapper/StudentTest.xml"/>
 
         <!--<package name="com.lenovo.cloud.accounting.data.mapper" />-->
     </mappers>
