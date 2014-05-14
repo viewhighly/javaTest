@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="framework.mybatis.data.mapper.StudentMapper">
+
+<!--<select id="getVmUsage" resultMap="accountingVmResource">-->
+    <!--<![CDATA[-->
+    <!--SELECT * FROM  accounting_vm_resource where user_name = #{userName} and ((unix_timestamp(start_time) <= #{endTime} and end_time is null) or (unix_timestamp(end_time) >= #{startTime}-->
+    <!--and unix_timestamp(start_time) <= #{endTime}))-->
+    <!--]]>-->
+<!--</select>-->
+    
+    
+    <insert id="saveStudent" parameterType="Student">
+        INSERT INTO  student values
+         (#{id}, #{age}, #{name}, #{sex})
+    </insert>
+
+    <select id="selectStudentForUpdate" parameterType="Student" resultType="Student">
+        SELECT age FOR UPDATE from student where id = #{id}
+    </select>
+
+
+
+</mapper>

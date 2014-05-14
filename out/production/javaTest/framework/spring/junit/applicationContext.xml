@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:p="http://www.springframework.org/schema/p"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:jee="http://www.springframework.org/schema/jee" xmlns:tx="http://www.springframework.org/schema/tx"
+       xsi:schemaLocation="
+   http://www.springframework.org/schema/beans
+   http://www.springframework.org/schema/beans/spring-beans-2.5.xsd
+   http://www.springframework.org/schema/context
+   http://www.springframework.org/schema/context/spring-context-2.5.xsd
+   http://www.springframework.org/schema/tx
+   http://www.springframework.org/schema/tx/spring-tx-2.5.xsd">
+
+    <!--<bean class="org.springframework.aop.framework.autoproxy.DefaultAdvisorAutoProxyCreator"/>-->
+    <bean id="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
+        <property name="driverClassName" value="com.mysql.jdbc.Driver" />
+        <property name="url" value="jdbc:mysql://localhost:3306/test?useUnicode=true&amp;characterEncoding=UTF-8" />
+        <property name="username" value="test" />
+        <property name="password" value="test" />
+    </bean>
+
+    <!-- 配置事务管理器，注意这里的dataSource和SqlSessionFactoryBean的dataSource要一致，不然事务就没有作用了 -->
+    <bean id="transactionManager"
+          class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+        <property name="dataSource" ref="dataSource" />
+    </bean>
+
+    <!--<tx:annotation-driven transaction-manager="transactionManager" />-->
+    <!-- myBatis文件 -->
+
+    <bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
+        <property name="configLocation" value="classpath:framework/spring/junit/mybatis.xml"/>
+        <property name="mapperLocations"
+                  value="classpath:framework/spring/junit/mapper/AccountMapper.xml" />
+        <property name="dataSource" ref="dataSource" />
+    </bean>
+
+    <bean id="accountDao" class="framework.spring.junit.AccountDao">
+        <property name="sessionFactory" ref="sqlSessionFactory"/>
+    </bean>
+
+    <bean id="accountService" class="framework.spring.junit.AccountService">
+        <property name="accountDao" ref="accountDao"/>
+    </bean>
+    <bean id="accountEntity" class="framework.spring.junit.Account">
+    </bean>
+
+    <context:annotation-config />
+    <context:component-scan base-package="framework.spring.junit" />
+
+</beans>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="framework.mybatis.data.mapper.AccountingVmResource">
+
+<!--<select id="getVmUsage" resultMap="accountingVmResource">-->
+    <!--<![CDATA[-->
+    <!--SELECT * FROM  accounting_vm_resource where user_name = #{userName} and ((unix_timestamp(start_time) <= #{endTime} and end_time is null) or (unix_timestamp(end_time) >= #{startTime}-->
+    <!--and unix_timestamp(start_time) <= #{endTime}))-->
+    <!--]]>-->
+<!--</select>-->
+    
+    
+    <insert id="addVmResource" parameterType="VmResource">
+        INSERT ignore INTO  accounting_vm_resource(user_name, vm_id, cpu_num, mem_size, nic_num, disk_size, inner_ip, os_type, start_time) values
+         (#{owner}, #{id}, #{cpuNum}, #{memSize}, #{nicNum}, #{diskSize}, #{innerIp}, #{osType}, #{startTime})
+    </insert>
+
+
+    <insert id="addAnimal" parameterType="java.util.HashMap">
+                                INSERT INTO animal(object) values (#{IMAGE:BLOB})
+    </insert>
+    
+    <select id="getAnimalObject" parameterType="int" resultType="java.util.HashMap">
+        select object from animal where oid = #{id}
+
+    </select>
+
+
+    <resultMap id="accountingVmResource" type="VmResource">
+        <id property="id" column="vm_id" />
+        <id property="startTime" column="start_time"/>
+        <id property="owner" column="user_name" />
+        <result property="cpuNum" column="cpu_num"/>
+        <result property="memSize" column="mem_size"/>
+        <result property="nicNum" column="nic_num"/>
+        <result property="diskSize" column="disk_size"/>
+        <result property="innerIp" column="inner_ip"/>
+        <result property="osType" column="os_type"/>
+        <result property="endTime" column="end_time"/>
+    </resultMap>
+
+
+
+</mapper>

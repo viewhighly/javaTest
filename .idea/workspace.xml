@@ -1,0 +1,1261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/account-parent/account-email/src/test/java/com/juvenxu/mvnbook/account/email/AccountEmailServiceOnlyTest.java" afterPath="$PROJECT_DIR$/account-parent/account-email/src/test/java/com/juvenxu/mvnbook/account/email/AccountEmailServiceOnlyTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/framework/mybatis/data/mapper/StudentMapper.java" afterPath="$PROJECT_DIR$/src/main/java/framework/mybatis/data/mapper/StudentMapper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/framework/mybatis/data/mapper/StudentTest.xml" afterPath="$PROJECT_DIR$/src/main/java/framework/mybatis/data/mapper/StudentTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/account-parent/account-email/src/test/resources/account-service.properties.back" afterPath="$PROJECT_DIR$/account-parent/account-email/src/test/resources/account-service.properties.back" />
+    </list>
+    <ignored path="javaTest.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1400063980789" ignored="false" />
+    <file path="/fragment.java" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1400058583173" ignored="false" />
+    <file path="/DefineClassV2.java" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1398678524543" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1398760621720" ignored="false" />
+    <file path="/TestAccountService.java" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1398772973229" ignored="false" />
+    <file path="/applicationContext.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1398772864170" ignored="false" />
+    <file path="/mybatis.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1398766326969" ignored="false" />
+    <file path="/AccountMapper.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1398767638823" ignored="false" />
+    <file path="/B.java" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1398769481020" ignored="false" />
+    <file path="/TestClass.java" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1398771899961" ignored="false" />
+    <file path="/EnumTest.java" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1398824292240" ignored="false" />
+    <file path="/a.dummy" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399858973950" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1400056617903" ignored="false" />
+    <file path="/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1400056226431" ignored="false" />
+    <file path="$USER_HOME$/gitRepository/CloudAccountingVmm/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399515920760" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/hypervisors/vmware/src/com/cloud/hypervisor/vmware/resource/VmwareResource.java" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930671" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/host-allocators/random/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930671" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/dedicated-resources/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930671" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/hypervisors/ovm/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930674" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/api/discovery/src/org/apache/cloudstack/api/command/user/discovery/ListApisCmd.java" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930671" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/hypervisors/xen/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930671" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/hypervisors/kvm/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930671" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/api/discovery/src/org/apache/cloudstack/discovery/ApiDiscoveryService.java" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930671" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/event-bus/rabbitmq/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930671" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/hypervisors/baremetal/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930671" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/hypervisors/ucs/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930671" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/hypervisors/hyperv/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930671" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/network-elements/elastic-loadbalancer/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930671" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/network-elements/ovs/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930671" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/network-elements/juniper-contrail/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930671" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/network-elements/palo-alto/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930671" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/network-elements/nicira-nvp/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/network-elements/bigswitch-vns/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/network-elements/midonet/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/vmware-base/src/com/cloud/hypervisor/vmware/mo/ClusterMO.java" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/network-elements/stratosphere-ssp/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/storage-allocators/random/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/agent/src/com/cloud/agent/Agent.java" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/vmware-base/src/com/cloud/hypervisor/vmware/mo/HostMO.java" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/user-authenticators/ldap/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/vmware-base/src/com/cloud/hypervisor/vmware/mo/HostDatastoreSystemMO.java" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/user-authenticators/md5/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/vmware-base/src/com/cloud/hypervisor/vmware/mo/DatacenterMO.java" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/utils/src/com/cloud/utils/concurrency/Scheduler.java" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/user-authenticators/plain-text/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/agent/src/com/cloud/agent/mockvm/MockVm.java" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/user-authenticators/sha256salted/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/engine/service/src/main/webapp/WEB-INF/beans.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/vmware-base/src/com/cloud/hypervisor/vmware/mo/CustomFieldConstants.java" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/network-elements/dns-notifier/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/vmware-base/src/com/cloud/hypervisor/vmware/mo/VirtualMachineMO.java" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/storage/image/s3/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/storage/image/swift/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/storage/image/default/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/vmware-base/src/com/cloud/hypervisor/vmware/mo/HypervisorHostHelper.java" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/storage/image/sample/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/api/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/agent/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/core/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/storage/volume/solidfire/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/server/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/usage/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/storage/volume/default/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/utils/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/storage/volume/sample/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/deps/XenServerJava/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/engine/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/alert-handlers/snmp-alerts/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/framework/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/test/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/alert-handlers/syslog-alerts/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/client/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/services/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/network-elements/internal-loadbalancer/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/maven-standard/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/quickcloud/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/network-elements/vxlan/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/engine/components-api/src/com/cloud/agent/AgentManager.java" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/parents/checkstyle/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/framework/ipc/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/framework/rest/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/engine/api/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/framework/events/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/engine/orchestration/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/framework/jobs/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/engine/storage/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/framework/cluster/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/network-elements/juniper-contrail/test/resources/publicNetworkContext.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/engine/storage/volume/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/framework/db/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/engine/storage/image/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/network-elements/juniper-contrail/test/resources/providerContext.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/engine/storage/datamotion/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/framework/config/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/engine/storage/cache/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/framework/managed-context/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/engine/storage/snapshot/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/hypervisors/vmware/src/com/cloud/storage/resource/VmwareStorageProcessor.java" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/framework/spring/lifecycle/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/engine/components-api/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/framework/spring/module/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/engine/schema/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/services/console-proxy/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/engine/network/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/engine/service/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/services/console-proxy-rdp/rdpconsole/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/services/secondary-storage/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/api/rate-limit/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930673" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/services/console-proxy/server/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930674" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/api/discovery/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930674" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/awsapi/web/web.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930674" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/acl/static-role-based/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930674" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/affinity-group-processors/host-anti-affinity/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930674" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/engine/service/src/main/webapp/WEB-INF/web.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930674" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/affinity-group-processors/explicit-dedication/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930674" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/deployment-planners/user-concentrated-pod/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930674" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/deployment-planners/user-dispersing/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930674" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/hypervisors/vmware/src/com/cloud/hypervisor/vmware/manager/VmwareManagerImpl.java" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930674" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/deployment-planners/implicit-dedication/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930674" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/hypervisors/vmware/src/com/cloud/hypervisor/vmware/manager/VmwareStorageManagerImpl.java" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930674" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/user-authenticators/sha256salted/src/com/cloud/server/auth/SHA256SaltedUserAuthenticator.java" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930674" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/plugins/ha-planners/skip-heurestics/pom.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930674" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/deps/install-non-oss.sh" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930671" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/pom.xml.back" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930671" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/README.tools.md" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930671" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/CHANGES" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930671" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/README.md" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/version-info.in" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/.gitignore" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/configure-info.in" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/NOTICE" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/LICENSE" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/INSTALL.md" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930672" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/vmops.log" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930674" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/awsapi.log" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930674" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/api.log" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399529930674" ignored="false" />
+    <file path="$USER_HOME$/sourcecode/apache-cloudstack-4.3.0-src/server/src/com/cloud/api/ApiServlet.java" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399862777907" ignored="false" />
+    <file path="/ApiServlet.java" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399862689266" ignored="false" />
+    <file path="/AccountEmailServiceTest.java" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1400058571892" ignored="false" />
+    <file path="/account-email.xml" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1399960074721" ignored="false" />
+    <file path="/Account.java" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1400034170042" ignored="false" />
+    <file path="/a.txt" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1400036991179" ignored="false" />
+    <file path="/account-service.properties" changelist="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" time="1400058836805" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+    <sortChildren value="false" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="javaTest" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="AccountServiceImpl.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/account-parent/account-service/src/main/java/com/juvenxu/mvnbook/account/service/AccountServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="114" column="36" selection-start="3767" selection-end="3767" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SignUpServlet.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/SignUpServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="74" column="45" selection-start="2754" selection-end="2764" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="account-service.properties" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/account-parent/account-web/src/main/resources/account-service.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="11" selection-start="32" selection-end="46" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="account-service.properties.back" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/account-parent/account-email/src/test/resources/account-service.properties.back">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="account-email.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/account-parent/account-email/src/main/resources/account-email.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="62" selection-start="881" selection-end="881" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#608#627#0" expanded="false" />
+                <element signature="e#661#676#0" expanded="false" />
+                <element signature="e#710#725#0" expanded="false" />
+                <element signature="e#763#782#0" expanded="false" />
+                <element signature="e#820#839#0" expanded="false" />
+                <element signature="tag#prop#0;tag#props#0;tag#property#5;tag#bean#1;tag#beans#0" expanded="false" />
+                <element signature="e#1190#1212#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AccountEmailServiceImpl.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/account-parent/account-email/src/main/java/com/juvenxu/mvnbook/account/email/AccountEmailServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="66" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AccountEmailServiceOnlyTest.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/account-parent/account-email/src/test/java/com/juvenxu/mvnbook/account/email/AccountEmailServiceOnlyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="64" selection-start="1043" selection-end="1043" vertical-scroll-proportion="0.6830065">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="account-email.iml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/account-parent/account-email/account-email.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="account-service.properties" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/account-parent/account-email/src/test/resources/account-service.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="14" selection-start="206" selection-end="206" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/framework/spring/junit/TestAccountService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/foundation/enumTest/EnumTest.java" />
+        <option value="$PROJECT_DIR$/account-parent/account-email/src/main/resources/account-email.xml" />
+        <option value="$PROJECT_DIR$/account-parent/account-persist/src/test/java/com/juvenxu/mvnbook/account/persist/AccountPersistServiceTest.java" />
+        <option value="$PROJECT_DIR$/account-parent/account-persist/src/main/resources/account-persist.xml" />
+        <option value="$PROJECT_DIR$/account-parent/account-captcha/pom.xml" />
+        <option value="$PROJECT_DIR$/account-parent/account-service/src/test/resources/account-service.properties" />
+        <option value="$PROJECT_DIR$/account-parent/account-service/src/test/java/com/juvenxu/mvnbook/account/service/AccountServiceTest.java" />
+        <option value="$PROJECT_DIR$/account-parent/account-service/pom.xml" />
+        <option value="$PROJECT_DIR$/account-parent/account-persist/src/main/java/com/juvenxu/mvnbook/account/persist/Account.java" />
+        <option value="$PROJECT_DIR$/account-parent/account-service/src/main/resources/account-service.xml" />
+        <option value="$PROJECT_DIR$/account-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/account-parent/account-email/src/test/java/com/juvenxu/mvnbook/account/email/AccountEmailServiceTest.java" />
+        <option value="$PROJECT_DIR$/account-parent/account-web/src/main/resources/account-service.properties" />
+        <option value="$PROJECT_DIR$/account-parent/account-email/src/test/java/com/juvenxu/mvnbook/account/email/AccountEmailServiceOnlyTest.java" />
+        <option value="$PROJECT_DIR$/account-parent/account-email/src/test/resources/account-service.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/local/apache-maven-3.0.4" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Account Web" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="66" />
+    <option name="y" value="52" />
+    <option name="width" value="1845" />
+    <option name="height" value="1026" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+          <State>
+            <id>Application Server Specific Inspections</id>
+          </State>
+          <State>
+            <id>Finalization issues</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>J2ME issues</id>
+          </State>
+          <State>
+            <id>Java language level migration aids</id>
+          </State>
+          <State>
+            <id>OtherGroovy</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>Resource management issues</id>
+          </State>
+          <State>
+            <id>Spring Model</id>
+          </State>
+          <State>
+            <id>Threading issues</id>
+          </State>
+          <State>
+            <id>Threading issuesGroovy</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Abstraction issues</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="2" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javaTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="account-parent" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="project.structure.side.proportion" value="0.31589338" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.juvenxu.mvnbook.account.email" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/account-parent/account-email/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="file" />
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/framework/spring/junit" />
+      <recent name="$PROJECT_DIR$/src/main/java/framework/mybatis/data/mapper" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/main/java/framework/spring/junit/mapper" />
+      <recent name="$PROJECT_DIR$/src/main/java/foundation/file/path/test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AccountEmailServiceOnlyTest.testSendMail">
+    <configuration default="false" name="AssertTest" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="foundation.assertTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="foundation.assertTest.AssertTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="javaTest" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="AccountEmailServiceTest.testSendMail" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.juvenxu.mvnbook.account.email.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="account-email" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.juvenxu.mvnbook.account.email" />
+      <option name="MAIN_CLASS_NAME" value="com.juvenxu.mvnbook.account.email.AccountEmailServiceTest" />
+      <option name="METHOD_NAME" value="testSendMail" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="AccountEmailServiceTest" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.juvenxu.mvnbook.account.email.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="account-email" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.juvenxu.mvnbook.account.email" />
+      <option name="MAIN_CLASS_NAME" value="com.juvenxu.mvnbook.account.email.AccountEmailServiceTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="RandomGeneratorTest.testGetRandomString" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.juvenxu.mvnbook.account.captcha.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="account-captcha" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.juvenxu.mvnbook.account.captcha" />
+      <option name="MAIN_CLASS_NAME" value="com.juvenxu.mvnbook.account.captcha.RandomGeneratorTest" />
+      <option name="METHOD_NAME" value="testGetRandomString" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="AccountEmailServiceOnlyTest.testSendMail" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.juvenxu.mvnbook.account.email.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="account-email" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.juvenxu.mvnbook.account.email" />
+      <option name="MAIN_CLASS_NAME" value="com.juvenxu.mvnbook.account.email.AccountEmailServiceOnlyTest" />
+      <option name="METHOD_NAME" value="testSendMail" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <configuration default="false" name="account-service [compile]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="compile" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/account-parent/account-service" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="false" name="account-web [run]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="jetty:run" />
+                <option value="-Djetty.port=9999" />
+              </list>
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/account-parent/account-web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Application.AssertTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.AccountEmailServiceTest.testSendMail" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.AccountEmailServiceTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.RandomGeneratorTest.testGetRandomString" />
+      <item index="4" class="java.lang.String" itemvalue="Maven.account-service [compile]" />
+      <item index="5" class="java.lang.String" itemvalue="Maven.account-web [run]" />
+      <item index="6" class="java.lang.String" itemvalue="JUnit.AccountEmailServiceOnlyTest.testSendMail" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.AccountEmailServiceOnlyTest.testSendMail" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.AccountEmailServiceTest.testSendMail" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.RandomGeneratorTest.testGetRandomString" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.AccountEmailServiceTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.AssertTest" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8677c29-dd8c-4fe7-a7d6-0004e0ddd96c" name="Default" comment="" />
+      <created>1398677533763</created>
+      <updated>1398677533763</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add library">
+      <created>1398679554605</created>
+      <updated>1398679554605</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add library">
+      <created>1400064005909</created>
+      <updated>1400064005909</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="66" y="52" width="1845" height="1026" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="DSM" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" x="166" y="152" width="1655" height="856" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3407325" sideWeight="0.499723" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32963988" sideWeight="0.670247" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21753608" sideWeight="0.50027853" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28523678" sideWeight="0.7824639" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.21753608" sideWeight="0.49972144" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32975295" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32975295" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2498615" sideWeight="0.2867884" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2498615" sideWeight="0.670247" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14317548" sideWeight="0.7824639" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32975295" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="add library" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="add library" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/account-parent/account-service/src/main/resources/account-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="4" selection-start="611" selection-end="611" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account-parent/account-service/src/main/java/com/juvenxu/mvnbook/account/service/SignUpRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="97" column="52" selection-start="1670" selection-end="1688" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account-parent/account-web/src/main/webapp/WEB-INF/web.xml">
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleGeneralEditorProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="com.intellij.javaee.module.view.web.viewlets.WebModuleAssemblyDescriptorReferencesProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="58" selection-start="502" selection-end="502" vertical-scroll-proportion="0.6551724">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account-parent/account-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="49" selection-start="1562" selection-end="1569" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account-parent/account-email/src/main/java/com/juvenxu/mvnbook/account/email/AccountEmailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="17" selection-start="61" selection-end="61" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account-parent/account-service/src/main/java/com/juvenxu/mvnbook/account/service/AccountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="9" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account-parent/account-service/src/main/java/com/juvenxu/mvnbook/account/service/AccountServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="114" column="36" selection-start="3767" selection-end="3767" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account-parent/account-web/src/main/java/com/juvenxu/mvnbook/account/web/SignUpServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="45" selection-start="2754" selection-end="2764" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account-parent/account-email/src/test/resources/account-service.properties.back">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account-parent/account-web/src/main/resources/account-service.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="11" selection-start="32" selection-end="46" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account-parent/account-email/account-email.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account-parent/account-email/src/main/resources/account-email.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="62" selection-start="881" selection-end="881" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#608#627#0" expanded="false" />
+            <element signature="e#661#676#0" expanded="false" />
+            <element signature="e#710#725#0" expanded="false" />
+            <element signature="e#763#782#0" expanded="false" />
+            <element signature="e#820#839#0" expanded="false" />
+            <element signature="tag#prop#0;tag#props#0;tag#property#5;tag#bean#1;tag#beans#0" expanded="false" />
+            <element signature="e#1190#1212#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account-parent/account-email/src/test/resources/account-service.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="14" selection-start="206" selection-end="206" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account-parent/account-email/src/test/java/com/juvenxu/mvnbook/account/email/AccountEmailServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="56" selection-start="1478" selection-end="1478" vertical-scroll-proportion="0.4722222">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account-parent/account-email/src/main/java/com/juvenxu/mvnbook/account/email/AccountEmailServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="66" selection-start="458" selection-end="458" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account-parent/account-email/src/test/java/com/juvenxu/mvnbook/account/email/AccountEmailServiceOnlyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="64" selection-start="1043" selection-end="1043" vertical-scroll-proportion="0.6830065">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>account-web:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (account-service)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31589338" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.1911935" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>account-service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31095755" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
